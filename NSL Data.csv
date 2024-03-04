@@ -1,0 +1,477 @@
+game_id,HomeTeam,HomeTeamName,AwayTeam,AwayTeamName,HomeScore,AwayScore,Home_xG,Away_xG,Home_shots,Away_shots,Home_corner,Away_corner,Home_PK_Goal,Away_PK_Goal,Home_PK_shots,Away_PK_shots,Home_ToP,HomeResult,AwayResult
+game_2023_94,TUC,Tucson Torpedoes FC,ALB,Albuquerque Scorpions FC,1,3,2.52,2,13,15,3,4,0,0,1,0,0.53,L,W
+game_2023_341,MOB,Mobile Mavericks FC,ALB,Albuquerque Scorpions FC,3,1,0.46,0.99,11,8,3,6,0,0,0,0,0.56,W,L
+game_2023_442,CHM,Charleston Mariners FC,ALB,Albuquerque Scorpions FC,0,1,1.62,1.16,16,13,1,7,0,0,0,0,0.52,L,W
+game_2023_50,SAS,Saskatoon Spartans FC,ALB,Albuquerque Scorpions FC,2,1,1.53,0.55,20,2,6,1,0,0,0,0,0.49,W,L
+game_2023_389,FOR,Fort Collins Foxes FC,ALB,Albuquerque Scorpions FC,0,2,2.15,1.13,18,13,2,0,0,0,0,0,0.71,L,W
+game_2023_27,FAR,Fargo Falcons FC,ALB,Albuquerque Scorpions FC,3,2,2.26,1.16,17,10,8,6,0,0,1,0,0.69,W,L
+game_2023_187,PRO,Providence Pioneers FC,ALB,Albuquerque Scorpions FC,4,1,2.59,2.23,21,16,1,5,0,0,1,0,0.52,W,L
+game_2023_366,TAC,Tacoma Thunderbolts FC,ALB,Albuquerque Scorpions FC,3,3,0.36,1.21,6,7,3,5,0,0,0,0,0.56,D,D
+game_2023_258,REN,Reno Rapids FC,ALB,Albuquerque Scorpions FC,0,1,0.8,0.8,22,6,6,6,0,0,0,0,0.57,L,W
+game_2023_470,BOI,Boise Thunderhawks FC,ALB,Albuquerque Scorpions FC,0,3,1.37,0.97,15,21,7,7,0,0,1,0,0.48,L,W
+game_2023_162,WIC,Wichita Warriors FC,ALB,Albuquerque Scorpions FC,2,2,1.36,2.24,22,23,0,5,0,0,0,0,0.6,D,D
+game_2023_241,OAK,Oakland Olympians FC,ALB,Albuquerque Scorpions FC,2,2,1.6,1.43,12,19,7,5,0,0,0,0,0.47,D,D
+game_2023_308,BAK,Bakersfield Bandits FC,ALB,Albuquerque Scorpions FC,3,3,1.53,1.18,11,13,5,2,0,0,0,0,0.48,D,D
+game_2023_204,SFS,Sioux Falls Sabers FC,ALB,Albuquerque Scorpions FC,2,0,1.52,0.53,12,10,2,3,0,0,0,0,0.54,W,L
+game_2023_134,SPR,Springfield Storm FC,ALB,Albuquerque Scorpions FC,7,2,0.92,1.28,11,14,7,3,0,0,1,0,0.5,W,L
+game_2023_120,ANC,Anchorage Avalanche FC,ALB,Albuquerque Scorpions FC,3,2,3.27,1.48,28,13,5,6,0,0,1,0,0.52,W,L
+game_2023_80,EUG,Eugene Enforcers FC,ALB,Albuquerque Scorpions FC,1,1,0.83,1.48,12,16,4,3,0,0,1,0,0.5,D,D
+game_2023_289,REN,Reno Rapids FC,ANC,Anchorage Avalanche FC,0,0,0.55,0.13,3,18,3,4,0,0,1,1,0.54,D,D
+game_2023_313,SPR,Springfield Storm FC,ANC,Anchorage Avalanche FC,3,2,1.6,0.67,19,7,8,3,1,0,1,0,0.49,W,L
+game_2023_156,TAC,Tacoma Thunderbolts FC,ANC,Anchorage Avalanche FC,4,0,1.34,0.94,13,10,10,7,1,0,1,0,0.4,W,L
+game_2023_349,EUG,Eugene Enforcers FC,ANC,Anchorage Avalanche FC,2,5,1.56,1.09,12,9,8,2,0,0,0,0,0.42,L,W
+game_2023_253,BOI,Boise Thunderhawks FC,ANC,Anchorage Avalanche FC,1,2,1.33,1.18,16,18,4,7,0,0,0,0,0.51,L,W
+game_2023_75,SAS,Saskatoon Spartans FC,ANC,Anchorage Avalanche FC,1,2,2.49,0.82,25,11,7,3,0,0,0,0,0.35,L,W
+game_2023_42,TUC,Tucson Torpedoes FC,ANC,Anchorage Avalanche FC,2,0,1.67,0.95,14,16,5,2,0,0,0,0,0.58,W,L
+game_2023_87,BAK,Bakersfield Bandits FC,ANC,Anchorage Avalanche FC,2,2,2.59,1.09,19,19,13,2,0,0,0,0,0.51,D,D
+game_2023_208,AUG,Augusta Arrows FC,ANC,Anchorage Avalanche FC,2,3,0.72,1.26,12,10,2,3,0,0,0,0,0.66,L,W
+game_2023_464,FOR,Fort Collins Foxes FC,ANC,Anchorage Avalanche FC,0,2,2.14,1.31,11,10,2,3,0,0,0,0,0.58,L,W
+game_2023_383,OAK,Oakland Olympians FC,ANC,Anchorage Avalanche FC,0,7,1.43,1.66,21,10,4,2,0,0,0,0,0.43,L,W
+game_2023_398,SJU,San Juan Strikers FC,ANC,Anchorage Avalanche FC,0,0,0.46,0.56,7,2,4,5,0,0,0,0,0.53,D,D
+game_2023_4,FAR,Fargo Falcons FC,ANC,Anchorage Avalanche FC,0,1,2.27,1.08,4,14,8,3,0,0,0,0,0.51,L,W
+game_2023_370,DOV,Dover Dragons FC,ANC,Anchorage Avalanche FC,5,0,2.31,0.3,17,6,3,4,0,0,0,0,0.59,W,L
+game_2023_217,ALB,Albuquerque Scorpions FC,ANC,Anchorage Avalanche FC,3,5,0.41,1.9,9,17,4,4,0,0,1,0,0.53,L,W
+game_2023_129,WIC,Wichita Warriors FC,ANC,Anchorage Avalanche FC,0,4,0.71,1.49,10,14,5,6,0,0,0,0,0.59,L,W
+game_2023_431,SFS,Sioux Falls Sabers FC,ANC,Anchorage Avalanche FC,2,1,2.31,0.81,5,13,4,6,0,0,0,0,0.52,W,L
+game_2023_339,PRO,Providence Pioneers FC,AUG,Augusta Arrows FC,1,3,2.28,1.58,17,16,2,5,0,0,0,0,0.43,L,W
+game_2023_230,LEX,Lexington Lynx FC,AUG,Augusta Arrows FC,1,1,1.48,0.92,10,14,5,1,0,0,0,1,0.45,D,D
+game_2023_327,CHM,Charleston Mariners FC,AUG,Augusta Arrows FC,0,1,1.28,1.3,14,9,8,5,0,0,0,0,0.43,L,W
+game_2023_21,EUG,Eugene Enforcers FC,AUG,Augusta Arrows FC,2,1,1.16,1.44,10,11,5,5,0,0,0,0,0.53,W,L
+game_2023_11,SFS,Sioux Falls Sabers FC,AUG,Augusta Arrows FC,1,1,1.34,1.2,6,11,2,1,0,0,0,0,0.54,D,D
+game_2023_67,MOB,Mobile Mavericks FC,AUG,Augusta Arrows FC,2,2,1.43,0.36,8,9,3,3,0,0,0,1,0.43,D,D
+game_2023_401,LAR,Laredo Lancers FC,AUG,Augusta Arrows FC,0,3,0.84,1.38,14,15,4,4,0,0,0,0,0.36,L,W
+game_2023_469,LRO,Little Rock Legends FC,AUG,Augusta Arrows FC,1,2,1.64,0.86,7,12,5,9,0,1,0,1,0.55,L,W
+game_2023_364,MAN,Manchester Meteors FC,AUG,Augusta Arrows FC,0,2,1.9,0.88,15,8,4,4,0,0,0,0,0.58,L,W
+game_2023_380,TOL,Toledo Titans FC,AUG,Augusta Arrows FC,0,0,0.34,1.13,2,15,11,3,0,0,0,0,0.5,D,D
+game_2023_264,SAS,Saskatoon Spartans FC,AUG,Augusta Arrows FC,1,1,1.33,1.14,12,10,1,2,0,0,0,0,0.5,D,D
+game_2023_161,SJU,San Juan Strikers FC,AUG,Augusta Arrows FC,2,3,1.25,0.75,6,8,6,3,0,0,0,0,0.45,L,W
+game_2023_283,SPR,Springfield Storm FC,AUG,Augusta Arrows FC,4,1,0.73,0.99,16,13,3,4,0,0,1,1,0.35,W,L
+game_2023_223,DOV,Dover Dragons FC,AUG,Augusta Arrows FC,4,0,3.64,0.55,22,9,3,11,0,0,0,0,0.42,W,L
+game_2023_185,BAK,Bakersfield Bandits FC,AUG,Augusta Arrows FC,0,1,1.37,0.81,16,12,8,10,0,0,0,0,0.46,L,W
+game_2023_307,JAC,Jackson Jaguars FC,AUG,Augusta Arrows FC,2,1,2.21,1.1,16,8,8,0,0,0,0,1,0.53,W,L
+game_2023_414,DES,Des Moines Dynamo FC,AUG,Augusta Arrows FC,2,3,2.17,2.05,15,19,3,6,0,0,0,0,0.47,L,W
+game_2023_170,SAS,Saskatoon Spartans FC,BAK,Bakersfield Bandits FC,1,0,1.04,0.22,15,10,5,2,0,0,0,0,0.67,W,L
+game_2023_325,ANC,Anchorage Avalanche FC,BAK,Bakersfield Bandits FC,1,0,2.32,0.12,15,5,8,6,0,0,0,0,0.55,W,L
+game_2023_84,FOR,Fort Collins Foxes FC,BAK,Bakersfield Bandits FC,2,1,2.11,1.03,14,11,9,6,0,0,0,0,0.57,W,L
+game_2023_293,TUC,Tucson Torpedoes FC,BAK,Bakersfield Bandits FC,1,1,1.12,1.37,13,15,6,9,0,0,0,0,0.72,D,D
+game_2023_41,SPR,Springfield Storm FC,BAK,Bakersfield Bandits FC,3,3,0.9,1.18,11,8,4,4,0,0,0,1,0.48,D,D
+game_2023_122,FAR,Fargo Falcons FC,BAK,Bakersfield Bandits FC,2,2,2.63,1.37,25,3,4,4,0,0,0,0,0.54,D,D
+game_2023_5,DOV,Dover Dragons FC,BAK,Bakersfield Bandits FC,0,0,1.9,0.56,17,6,5,3,0,0,0,0,0.53,D,D
+game_2023_228,SFS,Sioux Falls Sabers FC,BAK,Bakersfield Bandits FC,3,3,2.94,2.15,20,19,7,3,0,0,0,0,0.53,D,D
+game_2023_433,TAC,Tacoma Thunderbolts FC,BAK,Bakersfield Bandits FC,4,2,2.26,0.81,14,20,9,8,0,0,0,0,0.57,W,L
+game_2023_345,OAK,Oakland Olympians FC,BAK,Bakersfield Bandits FC,0,1,1.05,0.98,12,14,3,2,0,0,0,0,0.62,L,W
+game_2023_219,PRO,Providence Pioneers FC,BAK,Bakersfield Bandits FC,2,2,1.61,0.73,19,12,5,7,0,0,1,0,0.55,D,D
+game_2023_412,ALB,Albuquerque Scorpions FC,BAK,Bakersfield Bandits FC,1,0,0.67,0.77,16,17,5,3,0,0,0,0,0.52,W,L
+game_2023_210,LAR,Laredo Lancers FC,BAK,Bakersfield Bandits FC,2,0,1.52,0.43,18,2,6,4,1,0,1,0,0.54,W,L
+game_2023_388,BOI,Boise Thunderhawks FC,BAK,Bakersfield Bandits FC,3,0,1.02,0.75,13,2,9,5,0,0,0,0,0.52,W,L
+game_2023_451,WIC,Wichita Warriors FC,BAK,Bakersfield Bandits FC,1,2,1.79,0.93,16,8,7,3,0,0,0,1,0.55,L,W
+game_2023_152,REN,Reno Rapids FC,BAK,Bakersfield Bandits FC,2,4,2.19,0.84,20,11,8,2,0,0,0,0,0.58,L,W
+game_2023_250,EUG,Eugene Enforcers FC,BAK,Bakersfield Bandits FC,0,2,0.86,1.42,18,10,4,4,0,0,1,0,0.48,L,W
+game_2023_402,FAR,Fargo Falcons FC,BOI,Boise Thunderhawks FC,2,0,2.55,0.57,19,7,6,3,0,0,0,0,0.55,W,L
+game_2023_192,EUG,Eugene Enforcers FC,BOI,Boise Thunderhawks FC,4,3,1.16,1.64,19,15,5,6,0,0,0,0,0.41,W,L
+game_2023_454,SFS,Sioux Falls Sabers FC,BOI,Boise Thunderhawks FC,1,1,1.47,0.83,25,12,5,1,0,0,0,1,0.63,D,D
+game_2023_35,LAR,Laredo Lancers FC,BOI,Boise Thunderhawks FC,3,0,2.03,0.5,14,7,4,5,0,0,0,0,0.5,W,L
+game_2023_174,JAC,Jackson Jaguars FC,BOI,Boise Thunderhawks FC,0,2,0.52,1.18,17,10,9,3,0,0,0,0,0.56,L,W
+game_2023_12,TUC,Tucson Torpedoes FC,BOI,Boise Thunderhawks FC,1,5,1.06,2.09,17,14,7,7,0,0,1,1,0.53,L,W
+game_2023_375,SAS,Saskatoon Spartans FC,BOI,Boise Thunderhawks FC,3,3,2.42,1.32,11,17,8,0,0,0,0,0,0.53,D,D
+game_2023_267,LRO,Little Rock Legends FC,BOI,Boise Thunderhawks FC,1,2,1.4,0.99,18,9,5,2,0,0,1,1,0.53,L,W
+game_2023_96,AUG,Augusta Arrows FC,BOI,Boise Thunderhawks FC,2,1,1.77,0.67,16,6,8,3,0,0,0,0,0.56,W,L
+game_2023_309,WIC,Wichita Warriors FC,BOI,Boise Thunderhawks FC,3,3,1.54,1.18,17,19,12,7,0,0,2,0,0.62,D,D
+game_2023_105,ALB,Albuquerque Scorpions FC,BOI,Boise Thunderhawks FC,1,1,1.64,1.95,15,14,6,2,0,0,0,0,0.53,D,D
+game_2023_138,OAK,Oakland Olympians FC,BOI,Boise Thunderhawks FC,2,3,0.72,1.39,4,18,5,4,0,0,0,0,0.54,L,W
+game_2023_69,ANC,Anchorage Avalanche FC,BOI,Boise Thunderhawks FC,1,1,1.74,1.25,4,13,16,2,0,0,0,0,0.63,D,D
+game_2023_243,BAK,Bakersfield Bandits FC,BOI,Boise Thunderhawks FC,1,0,1.83,0.24,28,7,5,5,0,0,0,0,0.46,W,L
+game_2023_346,REN,Reno Rapids FC,BOI,Boise Thunderhawks FC,1,1,0.51,1.5,9,16,8,3,0,0,0,0,0.69,D,D
+game_2023_57,TAC,Tacoma Thunderbolts FC,BOI,Boise Thunderhawks FC,0,2,1.57,1.01,17,15,4,0,0,0,0,0,0.61,L,W
+game_2023_427,FOR,Fort Collins Foxes FC,BOI,Boise Thunderhawks FC,6,3,2.82,0.82,11,5,8,6,0,0,0,0,0.45,W,L
+game_2023_215,BOI,Boise Thunderhawks FC,CHM,Charleston Mariners FC,1,1,0.34,0.35,13,4,3,7,0,0,0,0,0.53,D,D
+game_2023_421,PRO,Providence Pioneers FC,CHM,Charleston Mariners FC,0,1,0.94,0.97,16,16,2,6,0,0,0,0,0.42,L,W
+game_2023_252,MAN,Manchester Meteors FC,CHM,Charleston Mariners FC,0,2,1.17,1.67,11,13,5,7,0,0,0,1,0.44,L,W
+game_2023_128,LAR,Laredo Lancers FC,CHM,Charleston Mariners FC,3,3,3.65,0.93,29,7,9,3,0,0,0,0,0.64,D,D
+game_2023_225,MOB,Mobile Mavericks FC,CHM,Charleston Mariners FC,1,1,0.32,0.6,11,10,4,1,0,0,0,0,0.63,D,D
+game_2023_74,DOV,Dover Dragons FC,CHM,Charleston Mariners FC,2,2,1.97,0.78,27,3,8,4,0,0,1,0,0.31,D,D
+game_2023_99,TAC,Tacoma Thunderbolts FC,CHM,Charleston Mariners FC,0,2,1.57,1.45,17,9,3,2,0,0,0,0,0.53,L,W
+game_2023_335,ANC,Anchorage Avalanche FC,CHM,Charleston Mariners FC,1,0,2.38,0.37,16,3,8,2,0,0,0,0,0.42,W,L
+game_2023_462,TOL,Toledo Titans FC,CHM,Charleston Mariners FC,0,3,1.67,1.6,27,16,7,8,0,0,0,0,0.46,L,W
+game_2023_369,LEX,Lexington Lynx FC,CHM,Charleston Mariners FC,2,1,1.55,0.83,8,11,3,10,0,1,0,1,0.35,W,L
+game_2023_459,DES,Des Moines Dynamo FC,CHM,Charleston Mariners FC,2,3,0.87,0.55,6,16,0,4,0,0,1,0,0.52,L,W
+game_2023_180,LRO,Little Rock Legends FC,CHM,Charleston Mariners FC,1,1,2.25,0.92,17,14,5,7,0,0,0,0,0.69,D,D
+game_2023_15,WIC,Wichita Warriors FC,CHM,Charleston Mariners FC,1,1,1.29,0.91,16,11,13,4,0,0,0,0,0.46,D,D
+game_2023_263,SJU,San Juan Strikers FC,CHM,Charleston Mariners FC,2,1,1.51,1.34,12,19,6,4,0,0,0,0,0.51,W,L
+game_2023_142,AUG,Augusta Arrows FC,CHM,Charleston Mariners FC,1,1,1.91,0.29,15,3,8,6,0,0,0,0,0.53,D,D
+game_2023_53,SPR,Springfield Storm FC,CHM,Charleston Mariners FC,2,1,0.83,0.69,12,15,5,6,0,0,1,1,0.44,W,L
+game_2023_406,JAC,Jackson Jaguars FC,CHM,Charleston Mariners FC,3,1,2.93,1.24,20,13,5,2,0,0,0,0,0.56,W,L
+game_2023_336,FAR,Fargo Falcons FC,DES,Des Moines Dynamo FC,1,4,2.13,2.63,15,18,3,6,0,0,0,1,0.52,L,W
+game_2023_191,REN,Reno Rapids FC,DES,Des Moines Dynamo FC,0,2,1.03,0.52,20,10,4,5,0,1,0,1,0.57,L,W
+game_2023_463,SPR,Springfield Storm FC,DES,Des Moines Dynamo FC,1,1,1.15,0.41,13,13,8,2,0,0,0,0,0.28,D,D
+game_2023_348,AUG,Augusta Arrows FC,DES,Des Moines Dynamo FC,0,3,0.78,2.3,22,15,4,7,0,0,0,0,0.64,L,W
+game_2023_61,DOV,Dover Dragons FC,DES,Des Moines Dynamo FC,1,2,2.21,0.32,19,4,7,7,0,0,1,0,0.42,L,W
+game_2023_288,MOB,Mobile Mavericks FC,DES,Des Moines Dynamo FC,1,1,1.05,1.76,10,9,6,5,0,0,1,0,0.48,D,D
+game_2023_274,PRO,Providence Pioneers FC,DES,Des Moines Dynamo FC,1,1,0.2,1.04,6,14,4,2,0,0,1,0,0.59,D,D
+game_2023_115,TOL,Toledo Titans FC,DES,Des Moines Dynamo FC,2,1,1.43,0.54,19,13,7,4,0,0,0,0,0.42,W,L
+game_2023_239,TUC,Tucson Torpedoes FC,DES,Des Moines Dynamo FC,1,0,1.81,0.68,17,9,5,1,0,0,0,0,0.59,W,L
+game_2023_100,ANC,Anchorage Avalanche FC,DES,Des Moines Dynamo FC,2,1,2.71,0.66,26,13,9,5,0,0,0,0,0.53,W,L
+game_2023_394,LEX,Lexington Lynx FC,DES,Des Moines Dynamo FC,4,5,0.27,1.85,11,13,5,3,0,0,0,0,0.37,L,W
+game_2023_430,MAN,Manchester Meteors FC,DES,Des Moines Dynamo FC,0,1,1.5,0.21,1,4,8,2,0,0,0,0,0.41,L,W
+game_2023_86,LAR,Laredo Lancers FC,DES,Des Moines Dynamo FC,2,0,1.36,0.6,17,10,5,2,0,0,0,0,0.4,W,L
+game_2023_3,SJU,San Juan Strikers FC,DES,Des Moines Dynamo FC,1,2,1.23,1.11,16,9,6,7,0,0,0,0,0.47,L,W
+game_2023_200,CHM,Charleston Mariners FC,DES,Des Moines Dynamo FC,0,1,0.95,1.95,13,17,4,7,0,0,0,1,0.52,L,W
+game_2023_40,LRO,Little Rock Legends FC,DES,Des Moines Dynamo FC,1,1,1.67,0.55,14,9,7,3,0,0,0,0,0.6,D,D
+game_2023_216,JAC,Jackson Jaguars FC,DES,Des Moines Dynamo FC,2,2,2.42,0.83,22,13,6,2,0,0,1,0,0.49,D,D
+game_2023_240,CHM,Charleston Mariners FC,DOV,Dover Dragons FC,0,1,1.15,1.45,15,8,4,5,0,0,1,0,0.53,L,W
+game_2023_93,MOB,Mobile Mavericks FC,DOV,Dover Dragons FC,2,3,1.97,0.62,6,14,6,1,1,0,1,0,0.54,L,W
+game_2023_231,MAN,Manchester Meteors FC,DOV,Dover Dragons FC,7,1,1.82,1.28,16,15,1,7,0,0,2,0,0.56,W,L
+game_2023_266,PRO,Providence Pioneers FC,DOV,Dover Dragons FC,4,1,1.26,0.16,13,18,6,3,0,0,0,0,0.57,W,L
+game_2023_359,SJU,San Juan Strikers FC,DOV,Dover Dragons FC,0,2,0.28,1.28,8,7,1,4,0,0,0,0,0.5,L,W
+game_2023_396,SPR,Springfield Storm FC,DOV,Dover Dragons FC,2,1,1.38,1.26,11,16,4,7,0,0,0,1,0.55,W,L
+game_2023_123,OAK,Oakland Olympians FC,DOV,Dover Dragons FC,1,1,0.98,1.48,16,19,7,3,0,0,0,0,0.6,D,D
+game_2023_186,LAR,Laredo Lancers FC,DOV,Dover Dragons FC,1,2,1.13,1.36,15,13,0,6,0,1,0,1,0.6,L,W
+game_2023_49,AUG,Augusta Arrows FC,DOV,Dover Dragons FC,3,3,0.84,0.82,10,18,7,3,0,0,0,0,0.73,D,D
+game_2023_351,SAS,Saskatoon Spartans FC,DOV,Dover Dragons FC,1,2,1.91,0.98,20,4,8,1,0,0,0,0,0.47,L,W
+game_2023_297,TOL,Toledo Titans FC,DOV,Dover Dragons FC,1,2,0.49,1.08,10,16,6,2,0,0,0,0,0.63,L,W
+game_2023_436,LRO,Little Rock Legends FC,DOV,Dover Dragons FC,2,1,1.81,0.88,17,14,9,6,0,0,0,0,0.53,W,L
+game_2023_172,ALB,Albuquerque Scorpions FC,DOV,Dover Dragons FC,2,2,1.55,0.23,19,11,8,2,0,0,0,0,0.65,D,D
+game_2023_23,JAC,Jackson Jaguars FC,DOV,Dover Dragons FC,2,3,1.01,2.42,7,17,5,5,0,0,0,0,0.65,L,W
+game_2023_328,LEX,Lexington Lynx FC,DOV,Dover Dragons FC,2,0,0.95,0.97,8,18,3,7,0,0,0,0,0.49,W,L
+game_2023_452,DES,Des Moines Dynamo FC,DOV,Dover Dragons FC,5,2,2.13,0.78,7,10,11,3,0,0,0,0,0.52,W,L
+game_2023_133,FAR,Fargo Falcons FC,DOV,Dover Dragons FC,2,2,2.04,1.83,21,11,10,5,0,0,0,0,0.66,D,D
+game_2023_107,FOR,Fort Collins Foxes FC,EUG,Eugene Enforcers FC,1,7,1.38,1.51,16,13,7,2,0,0,0,0,0.67,L,W
+game_2023_8,CHM,Charleston Mariners FC,EUG,Eugene Enforcers FC,0,0,1.54,1.18,11,3,8,0,0,0,0,0,0.57,D,D
+game_2023_419,ANC,Anchorage Avalanche FC,EUG,Eugene Enforcers FC,0,0,1.97,0.67,19,14,5,5,0,0,0,0,0.47,D,D
+game_2023_311,OAK,Oakland Olympians FC,EUG,Eugene Enforcers FC,3,0,2.12,0.22,13,2,2,1,0,0,0,0,0.5,W,L
+game_2023_189,TAC,Tacoma Thunderbolts FC,EUG,Eugene Enforcers FC,1,3,0.69,2.36,15,17,4,3,0,0,0,0,0.59,L,W
+game_2023_95,JAC,Jackson Jaguars FC,EUG,Eugene Enforcers FC,2,1,2.6,0.5,16,8,4,6,0,0,1,0,0.54,W,L
+game_2023_207,SAS,Saskatoon Spartans FC,EUG,Eugene Enforcers FC,0,2,1.23,1.2,12,9,9,5,0,0,0,0,0.66,L,W
+game_2023_474,BAK,Bakersfield Bandits FC,EUG,Eugene Enforcers FC,3,2,2.68,1.43,17,18,9,6,1,0,2,1,0.49,W,L
+game_2023_404,WIC,Wichita Warriors FC,EUG,Eugene Enforcers FC,5,1,1.68,0.69,15,4,4,6,0,0,0,0,0.48,W,L
+game_2023_39,TUC,Tucson Torpedoes FC,EUG,Eugene Enforcers FC,3,1,2.18,0.51,14,10,4,9,1,0,1,0,0.58,W,L
+game_2023_196,REN,Reno Rapids FC,EUG,Eugene Enforcers FC,3,3,2.49,0.41,20,11,7,4,0,0,0,0,0.56,D,D
+game_2023_361,BOI,Boise Thunderhawks FC,EUG,Eugene Enforcers FC,0,1,1.9,0.82,22,7,10,6,0,0,1,0,0.53,L,W
+game_2023_344,SFS,Sioux Falls Sabers FC,EUG,Eugene Enforcers FC,2,0,1.38,0.19,19,7,8,3,0,0,1,0,0.62,W,L
+game_2023_55,FAR,Fargo Falcons FC,EUG,Eugene Enforcers FC,1,0,1.24,0.84,14,11,4,5,0,0,0,0,0.62,W,L
+game_2023_177,DES,Des Moines Dynamo FC,EUG,Eugene Enforcers FC,2,2,1.7,0.24,14,8,2,3,1,0,1,0,0.63,D,D
+game_2023_272,LEX,Lexington Lynx FC,EUG,Eugene Enforcers FC,2,1,2.34,1.31,13,17,8,7,0,0,1,0,0.61,W,L
+game_2023_286,ALB,Albuquerque Scorpions FC,EUG,Eugene Enforcers FC,0,1,1.04,0.75,11,11,1,2,0,0,0,0,0.65,L,W
+game_2023_145,ANC,Anchorage Avalanche FC,FAR,Fargo Falcons FC,1,1,1.18,1.27,9,16,1,6,0,0,1,0,0.39,D,D
+game_2023_410,SAS,Saskatoon Spartans FC,FAR,Fargo Falcons FC,1,0,1.61,1.08,13,11,5,4,0,0,0,0,0.67,W,L
+game_2023_282,OAK,Oakland Olympians FC,FAR,Fargo Falcons FC,1,2,0.23,1.02,13,10,7,6,0,0,1,0,0.5,L,W
+game_2023_291,TAC,Tacoma Thunderbolts FC,FAR,Fargo Falcons FC,1,3,1.44,0.86,10,17,3,7,0,1,0,2,0.6,L,W
+game_2023_357,WIC,Wichita Warriors FC,FAR,Fargo Falcons FC,0,3,1.18,1.47,23,13,1,7,0,0,2,0,0.54,L,W
+game_2023_323,BOI,Boise Thunderhawks FC,FAR,Fargo Falcons FC,0,3,1.53,1.87,10,11,7,4,0,0,0,0,0.57,L,W
+game_2023_423,BAK,Bakersfield Bandits FC,FAR,Fargo Falcons FC,1,2,0.25,1.59,17,8,7,3,0,0,0,0,0.46,L,W
+game_2023_32,PRO,Providence Pioneers FC,FAR,Fargo Falcons FC,3,1,1.61,1.16,16,19,9,2,0,0,0,0,0.47,W,L
+game_2023_386,TUC,Tucson Torpedoes FC,FAR,Fargo Falcons FC,2,3,1.61,1.36,3,14,3,1,0,0,0,0,0.45,L,W
+game_2023_234,EUG,Eugene Enforcers FC,FAR,Fargo Falcons FC,0,2,1.02,0.88,9,11,7,3,0,0,1,0,0.43,L,W
+game_2023_367,FOR,Fort Collins Foxes FC,FAR,Fargo Falcons FC,3,1,1.96,1.19,21,9,9,7,0,0,0,0,0.48,W,L
+game_2023_456,ALB,Albuquerque Scorpions FC,FAR,Fargo Falcons FC,1,2,1.38,0.88,16,6,7,2,0,0,0,0,0.53,L,W
+game_2023_76,SFS,Sioux Falls Sabers FC,FAR,Fargo Falcons FC,0,5,0.9,1.2,9,9,3,2,0,0,0,0,0.43,L,W
+game_2023_165,CHM,Charleston Mariners FC,FAR,Fargo Falcons FC,2,1,1.59,1.55,16,14,7,0,0,0,0,0,0.64,W,L
+game_2023_203,REN,Reno Rapids FC,FAR,Fargo Falcons FC,3,1,2.54,0.36,21,3,2,2,0,0,2,0,0.52,W,L
+game_2023_109,LEX,Lexington Lynx FC,FAR,Fargo Falcons FC,1,0,1.02,0.24,20,10,8,4,0,0,1,0,0.45,W,L
+game_2023_64,TOL,Toledo Titans FC,FAR,Fargo Falcons FC,2,3,1.24,1.52,16,14,2,1,0,0,1,0,0.61,L,W
+game_2023_60,WIC,Wichita Warriors FC,FOR,Fort Collins Foxes FC,1,1,1.42,2.16,10,8,3,5,0,0,0,0,0.64,D,D
+game_2023_28,ALB,Albuquerque Scorpions FC,FOR,Fort Collins Foxes FC,2,2,1.04,1.25,15,12,1,2,0,0,0,0,0.39,D,D
+game_2023_233,DES,Des Moines Dynamo FC,FOR,Fort Collins Foxes FC,2,4,1.57,1.79,15,5,5,7,0,0,0,0,0.63,L,W
+game_2023_392,OAK,Oakland Olympians FC,FOR,Fort Collins Foxes FC,4,3,2.48,1.75,14,12,7,10,1,0,2,0,0.41,W,L
+game_2023_354,BAK,Bakersfield Bandits FC,FOR,Fort Collins Foxes FC,1,0,1.7,0.48,22,2,7,1,0,0,1,0,0.37,W,L
+game_2023_447,EUG,Eugene Enforcers FC,FOR,Fort Collins Foxes FC,0,1,1.07,1.34,18,15,10,5,0,0,0,0,0.32,L,W
+game_2023_273,SAS,Saskatoon Spartans FC,FOR,Fort Collins Foxes FC,2,0,2.22,0.36,18,10,5,5,0,0,2,0,0.49,W,L
+game_2023_303,TAC,Tacoma Thunderbolts FC,FOR,Fort Collins Foxes FC,1,2,1.67,0.63,17,17,5,6,0,0,0,0,0.42,L,W
+game_2023_251,LRO,Little Rock Legends FC,FOR,Fort Collins Foxes FC,1,0,1.82,0.68,13,8,7,2,0,0,0,0,0.62,W,L
+game_2023_190,SFS,Sioux Falls Sabers FC,FOR,Fort Collins Foxes FC,2,1,3.22,0.62,16,9,2,4,0,0,1,0,0.44,W,L
+game_2023_154,FAR,Fargo Falcons FC,FOR,Fort Collins Foxes FC,2,0,2.09,0.14,19,2,3,2,0,0,0,0,0.58,W,L
+game_2023_113,TUC,Tucson Torpedoes FC,FOR,Fort Collins Foxes FC,3,1,2.8,1.36,21,9,10,3,0,0,0,0,0.4,W,L
+game_2023_85,SJU,San Juan Strikers FC,FOR,Fort Collins Foxes FC,2,3,2.61,1.69,19,13,3,6,0,0,0,0,0.42,L,W
+game_2023_244,ANC,Anchorage Avalanche FC,FOR,Fort Collins Foxes FC,2,2,2.46,1.27,17,8,2,6,0,0,0,0,0.45,D,D
+game_2023_140,BOI,Boise Thunderhawks FC,FOR,Fort Collins Foxes FC,1,1,1.51,0.36,19,10,5,8,0,0,0,0,0.45,D,D
+game_2023_198,JAC,Jackson Jaguars FC,FOR,Fort Collins Foxes FC,3,2,2.13,1.55,24,10,7,3,0,0,0,0,0.63,W,L
+game_2023_407,REN,Reno Rapids FC,FOR,Fort Collins Foxes FC,2,1,2.72,0.76,13,12,3,3,0,0,0,0,0.53,W,L
+game_2023_33,AUG,Augusta Arrows FC,JAC,Jackson Jaguars FC,0,2,1.63,1.16,9,8,2,2,0,0,0,0,0.51,L,W
+game_2023_45,LRO,Little Rock Legends FC,JAC,Jackson Jaguars FC,0,1,0.95,1.89,11,11,8,3,0,0,0,0,0.54,L,W
+game_2023_317,CHM,Charleston Mariners FC,JAC,Jackson Jaguars FC,0,0,0.36,0.63,18,14,2,2,0,0,0,0,0.44,D,D
+game_2023_338,TUC,Tucson Torpedoes FC,JAC,Jackson Jaguars FC,2,2,0.88,1.3,18,20,3,5,0,0,0,0,0.51,D,D
+game_2023_434,LAR,Laredo Lancers FC,JAC,Jackson Jaguars FC,1,3,1.95,0.63,19,8,6,1,1,0,1,0,0.4,L,W
+game_2023_102,DOV,Dover Dragons FC,JAC,Jackson Jaguars FC,2,0,1.34,0.41,14,8,5,9,0,0,0,0,0.46,W,L
+game_2023_77,SPR,Springfield Storm FC,JAC,Jackson Jaguars FC,1,1,1.23,0.5,6,11,1,4,0,0,0,0,0.5,D,D
+game_2023_400,MOB,Mobile Mavericks FC,JAC,Jackson Jaguars FC,0,0,1.54,0.87,15,11,6,8,0,0,0,0,0.43,D,D
+game_2023_146,DES,Des Moines Dynamo FC,JAC,Jackson Jaguars FC,0,2,0.21,0.92,8,3,5,7,0,0,0,0,0.55,L,W
+game_2023_466,PRO,Providence Pioneers FC,JAC,Jackson Jaguars FC,0,4,1.05,1.11,13,12,7,4,0,0,0,0,0.39,L,W
+game_2023_9,TOL,Toledo Titans FC,JAC,Jackson Jaguars FC,1,2,1.2,1.2,17,20,6,4,0,0,0,0,0.49,L,W
+game_2023_65,LEX,Lexington Lynx FC,JAC,Jackson Jaguars FC,1,2,1.88,2.04,23,16,10,8,0,0,1,0,0.42,L,W
+game_2023_229,REN,Reno Rapids FC,JAC,Jackson Jaguars FC,1,3,1.39,1.41,21,9,8,4,0,0,0,0,0.52,L,W
+game_2023_294,SJU,San Juan Strikers FC,JAC,Jackson Jaguars FC,0,0,0.96,0.81,13,17,10,1,0,0,0,0,0.43,D,D
+game_2023_247,SFS,Sioux Falls Sabers FC,JAC,Jackson Jaguars FC,1,2,0.95,1.7,6,12,4,5,0,0,1,0,0.38,L,W
+game_2023_160,OAK,Oakland Olympians FC,JAC,Jackson Jaguars FC,2,2,1.76,0.96,19,11,1,7,0,0,0,0,0.44,D,D
+game_2023_373,MAN,Manchester Meteors FC,JAC,Jackson Jaguars FC,3,0,2.81,0.63,20,13,4,0,0,0,0,0,0.58,W,L
+game_2023_350,MOB,Mobile Mavericks FC,LAR,Laredo Lancers FC,0,1,1.07,0.84,11,3,3,9,0,0,0,0,0.66,L,W
+game_2023_46,DES,Des Moines Dynamo FC,LAR,Laredo Lancers FC,1,2,0.58,1.33,14,17,2,7,0,0,0,1,0.49,L,W
+game_2023_467,MAN,Manchester Meteors FC,LAR,Laredo Lancers FC,0,1,1.42,0.94,13,7,7,2,0,0,0,0,0.55,L,W
+game_2023_358,JAC,Jackson Jaguars FC,LAR,Laredo Lancers FC,1,1,0.29,0.49,5,4,5,7,0,0,0,0,0.53,D,D
+game_2023_6,ALB,Albuquerque Scorpions FC,LAR,Laredo Lancers FC,1,1,0.62,0.78,11,17,9,4,0,0,0,0,0.54,D,D
+game_2023_277,DOV,Dover Dragons FC,LAR,Laredo Lancers FC,0,1,1.03,0.72,17,3,5,6,0,0,0,0,0.44,L,W
+game_2023_326,TOL,Toledo Titans FC,LAR,Laredo Lancers FC,3,2,2.09,1.51,11,12,11,8,0,0,0,0,0.53,W,L
+game_2023_222,EUG,Eugene Enforcers FC,LAR,Laredo Lancers FC,2,2,1.93,0.72,28,6,5,7,0,0,0,0,0.53,D,D
+game_2023_413,SPR,Springfield Storm FC,LAR,Laredo Lancers FC,2,5,1.76,0.93,20,8,3,6,0,0,0,0,0.58,L,W
+game_2023_78,PRO,Providence Pioneers FC,LAR,Laredo Lancers FC,5,1,0.72,1.61,16,11,2,3,0,0,0,0,0.37,W,L
+game_2023_424,TUC,Tucson Torpedoes FC,LAR,Laredo Lancers FC,0,3,2.02,0.78,25,6,4,5,0,0,1,0,0.43,L,W
+game_2023_195,TAC,Tacoma Thunderbolts FC,LAR,Laredo Lancers FC,2,3,1.14,0.67,12,10,3,4,0,0,0,0,0.4,L,W
+game_2023_295,CHM,Charleston Mariners FC,LAR,Laredo Lancers FC,0,1,1.47,1.2,15,11,6,3,0,0,1,0,0.53,L,W
+game_2023_103,SJU,San Juan Strikers FC,LAR,Laredo Lancers FC,2,3,1.61,1.09,14,9,4,2,0,0,0,0,0.32,L,W
+game_2023_153,LRO,Little Rock Legends FC,LAR,Laredo Lancers FC,1,2,1.03,1.66,7,12,3,5,0,0,1,0,0.57,L,W
+game_2023_166,LEX,Lexington Lynx FC,LAR,Laredo Lancers FC,7,0,2.47,0.18,20,10,3,4,0,0,0,0,0.52,W,L
+game_2023_256,AUG,Augusta Arrows FC,LAR,Laredo Lancers FC,4,2,0.9,1.2,6,8,5,2,0,0,0,0,0.59,W,L
+game_2023_475,LRO,Little Rock Legends FC,LEX,Lexington Lynx FC,1,2,2.1,1.3,17,6,5,5,0,0,0,0,0.51,L,W
+game_2023_444,REN,Reno Rapids FC,LEX,Lexington Lynx FC,1,2,1.52,1.33,10,6,5,2,0,0,0,0,0.53,L,W
+game_2023_304,PRO,Providence Pioneers FC,LEX,Lexington Lynx FC,1,1,1.07,0.99,12,15,5,6,0,0,1,0,0.54,D,D
+game_2023_56,DES,Des Moines Dynamo FC,LEX,Lexington Lynx FC,2,1,1.48,1.05,15,5,6,7,0,0,0,0,0.58,W,L
+game_2023_280,CHM,Charleston Mariners FC,LEX,Lexington Lynx FC,2,1,2.08,1.38,19,19,3,8,0,0,0,0,0.58,W,L
+game_2023_199,DOV,Dover Dragons FC,LEX,Lexington Lynx FC,5,2,2.61,1.12,24,9,8,3,0,0,0,0,0.45,W,L
+game_2023_461,SJU,San Juan Strikers FC,LEX,Lexington Lynx FC,3,1,3.01,1.24,18,16,6,5,0,0,0,0,0.57,W,L
+game_2023_179,JAC,Jackson Jaguars FC,LEX,Lexington Lynx FC,0,3,1.78,1.3,21,10,3,5,0,0,0,1,0.51,L,W
+game_2023_429,BOI,Boise Thunderhawks FC,LEX,Lexington Lynx FC,0,1,3.01,0.27,22,14,13,0,0,0,0,0,0.59,L,W
+game_2023_127,BAK,Bakersfield Bandits FC,LEX,Lexington Lynx FC,0,2,1.01,1.08,24,15,3,6,0,0,0,0,0.53,L,W
+game_2023_30,TOL,Toledo Titans FC,LEX,Lexington Lynx FC,1,1,2.18,1.27,22,9,6,4,0,0,0,0,0.69,D,D
+game_2023_355,SPR,Springfield Storm FC,LEX,Lexington Lynx FC,3,0,1.73,0.39,18,13,3,1,0,0,0,0,0.52,W,L
+game_2023_238,LAR,Laredo Lancers FC,LEX,Lexington Lynx FC,0,3,1.63,1.1,15,16,2,6,0,0,1,0,0.55,L,W
+game_2023_405,AUG,Augusta Arrows FC,LEX,Lexington Lynx FC,3,1,4.03,0.87,25,10,9,4,0,0,1,0,0.65,W,L
+game_2023_2,FOR,Fort Collins Foxes FC,LEX,Lexington Lynx FC,1,0,0.98,0.9,9,11,5,2,0,0,0,0,0.57,W,L
+game_2023_114,MOB,Mobile Mavericks FC,LEX,Lexington Lynx FC,1,1,2.18,0.92,16,8,0,4,0,0,0,0,0.65,D,D
+game_2023_141,MAN,Manchester Meteors FC,LEX,Lexington Lynx FC,1,1,1.28,1.77,16,11,8,5,0,0,0,0,0.61,D,D
+game_2023_381,DOV,Dover Dragons FC,LRO,Little Rock Legends FC,1,3,1.45,0.52,11,9,3,4,0,0,0,0,0.45,L,W
+game_2023_14,ANC,Anchorage Avalanche FC,LRO,Little Rock Legends FC,1,0,1.74,1,17,9,4,5,0,0,0,0,0.36,W,L
+game_2023_213,MOB,Mobile Mavericks FC,LRO,Little Rock Legends FC,1,3,0.65,1.89,3,16,2,6,0,0,0,0,0.44,L,W
+game_2023_397,ALB,Albuquerque Scorpions FC,LRO,Little Rock Legends FC,2,5,1.1,1.14,14,7,8,3,0,0,0,0,0.39,L,W
+game_2023_236,AUG,Augusta Arrows FC,LRO,Little Rock Legends FC,2,0,2.05,0.69,9,13,8,5,0,0,1,0,0.5,W,L
+game_2023_108,PRO,Providence Pioneers FC,LRO,Little Rock Legends FC,0,4,0.97,1.74,23,16,1,0,0,0,0,0,0.37,L,W
+game_2023_425,TOL,Toledo Titans FC,LRO,Little Rock Legends FC,1,1,1.3,1.07,11,13,3,7,0,0,1,0,0.55,D,D
+game_2023_59,SJU,San Juan Strikers FC,LRO,Little Rock Legends FC,0,0,1.36,1.32,17,8,4,5,0,0,0,0,0.44,D,D
+game_2023_164,OAK,Oakland Olympians FC,LRO,Little Rock Legends FC,1,3,1.68,1.35,23,10,7,6,0,0,0,0,0.45,L,W
+game_2023_362,CHM,Charleston Mariners FC,LRO,Little Rock Legends FC,1,1,1.74,0.84,22,9,7,4,0,0,1,0,0.49,D,D
+game_2023_333,LEX,Lexington Lynx FC,LRO,Little Rock Legends FC,3,2,2.36,1.8,22,5,9,5,0,0,0,0,0.4,W,L
+game_2023_299,SFS,Sioux Falls Sabers FC,LRO,Little Rock Legends FC,1,2,2.17,0.72,18,10,8,7,0,0,0,0,0.49,L,W
+game_2023_112,JAC,Jackson Jaguars FC,LRO,Little Rock Legends FC,1,2,2.15,1.39,15,12,6,2,0,0,1,0,0.39,L,W
+game_2023_302,MAN,Manchester Meteors FC,LRO,Little Rock Legends FC,3,1,1.87,1.32,18,10,3,6,0,0,0,2,0.53,W,L
+game_2023_446,LAR,Laredo Lancers FC,LRO,Little Rock Legends FC,1,0,1.53,0.97,14,10,4,2,0,0,0,0,0.38,W,L
+game_2023_83,DES,Des Moines Dynamo FC,LRO,Little Rock Legends FC,1,2,0.67,1.45,15,15,2,5,0,0,0,0,0.51,L,W
+game_2023_232,SPR,Springfield Storm FC,LRO,Little Rock Legends FC,0,5,1.15,1.56,16,17,5,5,0,0,0,0,0.42,L,W
+game_2023_320,DES,Des Moines Dynamo FC,MAN,Manchester Meteors FC,2,1,0.6,0.52,11,6,7,2,0,0,0,0,0.6,W,L
+game_2023_126,LRO,Little Rock Legends FC,MAN,Manchester Meteors FC,2,1,1.16,0.82,16,14,1,5,0,0,1,0,0.61,W,L
+game_2023_334,DOV,Dover Dragons FC,MAN,Manchester Meteors FC,1,2,1.99,0.4,15,6,7,1,0,0,0,0,0.44,L,W
+game_2023_287,EUG,Eugene Enforcers FC,MAN,Manchester Meteors FC,3,1,2.42,1.75,13,13,7,4,0,0,0,0,0.39,W,L
+game_2023_178,MOB,Mobile Mavericks FC,MAN,Manchester Meteors FC,1,1,1.49,0.19,20,10,1,1,0,0,0,0,0.38,D,D
+game_2023_382,LAR,Laredo Lancers FC,MAN,Manchester Meteors FC,3,1,1.86,1.58,16,21,2,4,0,0,1,0,0.53,W,L
+game_2023_448,LEX,Lexington Lynx FC,MAN,Manchester Meteors FC,0,0,0.65,1.02,16,9,2,2,0,0,1,0,0.52,D,D
+game_2023_155,SPR,Springfield Storm FC,MAN,Manchester Meteors FC,2,0,0.22,0.34,9,14,5,6,0,0,0,0,0.44,W,L
+game_2023_1,PRO,Providence Pioneers FC,MAN,Manchester Meteors FC,1,1,1.63,0.34,17,8,5,4,0,0,0,0,0.53,D,D
+game_2023_237,WIC,Wichita Warriors FC,MAN,Manchester Meteors FC,0,0,1.64,0.17,23,1,4,2,0,0,0,1,0.56,D,D
+game_2023_98,BAK,Bakersfield Bandits FC,MAN,Manchester Meteors FC,2,1,1.99,0.27,22,9,3,8,0,0,0,0,0.56,W,L
+game_2023_393,CHM,Charleston Mariners FC,MAN,Manchester Meteors FC,1,1,1.18,1.33,19,10,5,5,0,0,0,0,0.53,D,D
+game_2023_168,AUG,Augusta Arrows FC,MAN,Manchester Meteors FC,2,2,1.26,1.55,11,12,4,6,0,0,0,1,0.6,D,D
+game_2023_214,TUC,Tucson Torpedoes FC,MAN,Manchester Meteors FC,4,0,1.52,0.41,15,12,6,5,0,0,0,0,0.53,W,L
+game_2023_420,JAC,Jackson Jaguars FC,MAN,Manchester Meteors FC,1,1,1.14,1.08,15,3,4,0,0,0,0,0,0.54,D,D
+game_2023_73,TOL,Toledo Titans FC,MAN,Manchester Meteors FC,1,1,0.56,1.1,10,12,5,2,0,0,1,0,0.62,D,D
+game_2023_29,SJU,San Juan Strikers FC,MAN,Manchester Meteors FC,1,2,2.31,2.1,19,20,4,3,0,0,1,0,0.55,L,W
+game_2023_332,OAK,Oakland Olympians FC,MOB,Mobile Mavericks FC,2,3,2.62,0.42,23,7,7,5,0,0,1,0,0.5,L,W
+game_2023_271,MAN,Manchester Meteors FC,MOB,Mobile Mavericks FC,0,1,0.91,0.85,18,11,3,7,0,0,0,0,0.43,L,W
+game_2023_279,JAC,Jackson Jaguars FC,MOB,Mobile Mavericks FC,3,0,2.58,1.38,19,13,3,10,0,0,0,0,0.64,W,L
+game_2023_167,SJU,San Juan Strikers FC,MOB,Mobile Mavericks FC,3,1,2.7,0.76,11,7,0,2,0,0,0,1,0.48,W,L
+game_2023_360,PRO,Providence Pioneers FC,MOB,Mobile Mavericks FC,2,3,2.38,2,24,11,2,5,0,0,0,0,0.41,L,W
+game_2023_418,LRO,Little Rock Legends FC,MOB,Mobile Mavericks FC,4,3,3.05,1.18,25,11,9,3,1,0,2,0,0.53,W,L
+game_2023_7,SAS,Saskatoon Spartans FC,MOB,Mobile Mavericks FC,0,0,0.75,0.38,14,12,7,6,0,0,0,0,0.44,D,D
+game_2023_125,LEX,Lexington Lynx FC,MOB,Mobile Mavericks FC,2,0,2.61,0.78,21,12,3,7,0,0,0,0,0.6,W,L
+game_2023_206,SPR,Springfield Storm FC,MOB,Mobile Mavericks FC,1,1,0.96,1.03,18,16,2,3,0,0,0,0,0.41,D,D
+game_2023_139,EUG,Eugene Enforcers FC,MOB,Mobile Mavericks FC,0,1,1.13,0.69,16,8,7,4,0,0,0,0,0.45,L,W
+game_2023_82,BOI,Boise Thunderhawks FC,MOB,Mobile Mavericks FC,2,0,2.26,1.24,17,15,0,4,0,0,0,0,0.48,W,L
+game_2023_473,DOV,Dover Dragons FC,MOB,Mobile Mavericks FC,1,1,1.7,0.14,19,10,1,5,0,0,0,0,0.51,D,D
+game_2023_377,DES,Des Moines Dynamo FC,MOB,Mobile Mavericks FC,0,1,1.26,1.07,15,9,5,6,0,0,0,0,0.58,L,W
+game_2023_439,TOL,Toledo Titans FC,MOB,Mobile Mavericks FC,2,3,0.93,1.29,8,8,5,5,0,0,0,0,0.44,L,W
+game_2023_111,AUG,Augusta Arrows FC,MOB,Mobile Mavericks FC,1,0,2.22,0.27,22,6,6,3,0,0,0,0,0.58,W,L
+game_2023_310,LAR,Laredo Lancers FC,MOB,Mobile Mavericks FC,1,1,1.49,0.51,14,11,8,3,0,0,0,0,0.53,D,D
+game_2023_38,CHM,Charleston Mariners FC,MOB,Mobile Mavericks FC,0,2,1.85,1.14,15,5,6,2,0,0,0,0,0.48,L,W
+game_2023_34,SAS,Saskatoon Spartans FC,OAK,Oakland Olympians FC,0,2,0.29,0.99,10,15,2,2,0,0,0,0,0.57,L,W
+game_2023_318,ALB,Albuquerque Scorpions FC,OAK,Oakland Olympians FC,0,1,0.81,1.14,3,13,6,2,0,0,0,0,0.53,L,W
+game_2023_220,SJU,San Juan Strikers FC,OAK,Oakland Olympians FC,0,0,1.27,0.39,14,1,4,2,0,0,1,0,0.58,D,D
+game_2023_184,ANC,Anchorage Avalanche FC,OAK,Oakland Olympians FC,2,0,2.86,0.21,28,4,3,5,0,0,1,0,0.64,W,L
+game_2023_10,REN,Reno Rapids FC,OAK,Oakland Olympians FC,1,1,0.7,0.17,7,7,4,6,0,0,0,0,0.57,D,D
+game_2023_66,CHM,Charleston Mariners FC,OAK,Oakland Olympians FC,1,1,1.15,0.62,17,10,7,8,0,0,0,1,0.66,D,D
+game_2023_435,FOR,Fort Collins Foxes FC,OAK,Oakland Olympians FC,1,1,1.19,1.16,12,11,8,4,0,0,0,0,0.52,D,D
+game_2023_257,DES,Des Moines Dynamo FC,OAK,Oakland Olympians FC,2,0,0.68,0.4,6,4,0,2,0,0,0,0,0.6,W,L
+game_2023_20,BAK,Bakersfield Bandits FC,OAK,Oakland Olympians FC,1,2,1.27,1.64,9,20,2,3,0,0,0,0,0.55,L,W
+game_2023_147,TUC,Tucson Torpedoes FC,OAK,Oakland Olympians FC,0,2,0.65,0.72,9,5,6,0,0,0,0,0,0.38,L,W
+game_2023_79,TAC,Tacoma Thunderbolts FC,OAK,Oakland Olympians FC,2,3,1.74,1.12,24,13,3,4,0,0,1,0,0.52,L,W
+game_2023_296,LEX,Lexington Lynx FC,OAK,Oakland Olympians FC,1,2,2.11,1.25,27,14,11,4,0,0,0,0,0.59,L,W
+game_2023_374,EUG,Eugene Enforcers FC,OAK,Oakland Olympians FC,0,0,0.72,1.02,14,11,5,7,0,0,1,0,0.47,D,D
+game_2023_468,FAR,Fargo Falcons FC,OAK,Oakland Olympians FC,1,4,1.69,1.56,13,20,8,4,0,0,1,0,0.66,L,W
+game_2023_47,BOI,Boise Thunderhawks FC,OAK,Oakland Olympians FC,2,0,1.38,0.41,18,14,4,11,0,0,0,0,0.42,W,L
+game_2023_104,SFS,Sioux Falls Sabers FC,OAK,Oakland Olympians FC,2,1,1.72,1.65,11,15,3,1,0,0,0,0,0.66,W,L
+game_2023_91,WIC,Wichita Warriors FC,OAK,Oakland Olympians FC,0,3,0.5,1.61,13,17,8,3,0,0,0,0,0.65,L,W
+game_2023_441,SJU,San Juan Strikers FC,PRO,Providence Pioneers FC,0,2,1.82,0.59,22,10,6,2,0,1,0,1,0.43,L,W
+game_2023_246,SAS,Saskatoon Spartans FC,PRO,Providence Pioneers FC,2,0,3.1,0.37,22,7,6,5,0,0,1,0,0.57,W,L
+game_2023_292,AUG,Augusta Arrows FC,PRO,Providence Pioneers FC,5,3,1.72,1.15,18,11,7,2,2,0,2,1,0.46,W,L
+game_2023_26,FOR,Fort Collins Foxes FC,PRO,Providence Pioneers FC,1,2,2.05,0.77,17,14,2,2,0,0,0,0,0.58,L,W
+game_2023_445,MOB,Mobile Mavericks FC,PRO,Providence Pioneers FC,1,5,2.34,1.54,14,11,4,7,0,0,0,0,0.41,L,W
+game_2023_324,JAC,Jackson Jaguars FC,PRO,Providence Pioneers FC,2,3,2.61,1.07,19,9,1,2,0,0,0,0,0.51,L,W
+game_2023_209,LRO,Little Rock Legends FC,PRO,Providence Pioneers FC,0,0,1.49,0.59,21,6,5,5,0,0,0,0,0.59,D,D
+game_2023_159,DOV,Dover Dragons FC,PRO,Providence Pioneers FC,1,0,0.88,0.47,12,5,7,3,0,0,1,0,0.53,W,L
+game_2023_372,SPR,Springfield Storm FC,PRO,Providence Pioneers FC,0,3,0.5,1.07,5,20,5,7,0,0,0,0,0.45,L,W
+game_2023_90,REN,Reno Rapids FC,PRO,Providence Pioneers FC,2,1,0.79,0.7,12,11,8,5,1,0,2,1,0.61,W,L
+game_2023_131,DES,Des Moines Dynamo FC,PRO,Providence Pioneers FC,2,0,1.8,0.98,17,11,12,4,0,0,0,0,0.53,W,L
+game_2023_44,LEX,Lexington Lynx FC,PRO,Providence Pioneers FC,0,1,1.14,0.58,12,8,5,6,0,0,0,0,0.49,L,W
+game_2023_387,CHM,Charleston Mariners FC,PRO,Providence Pioneers FC,1,3,2.17,1.92,19,12,5,5,0,0,0,0,0.5,L,W
+game_2023_316,WIC,Wichita Warriors FC,PRO,Providence Pioneers FC,0,4,0.89,2.38,20,18,0,5,0,0,1,0,0.62,L,W
+game_2023_119,LAR,Laredo Lancers FC,PRO,Providence Pioneers FC,0,1,1.27,0.47,11,11,9,4,0,0,0,0,0.66,L,W
+game_2023_411,MAN,Manchester Meteors FC,PRO,Providence Pioneers FC,2,3,3.03,1.59,16,12,12,4,0,0,0,0,0.53,L,W
+game_2023_255,TOL,Toledo Titans FC,PRO,Providence Pioneers FC,2,0,0.49,0.39,15,4,0,2,0,0,0,0,0.55,W,L
+game_2023_368,ALB,Albuquerque Scorpions FC,REN,Reno Rapids FC,2,0,1.72,0.97,8,3,4,4,0,0,1,0,0.49,W,L
+game_2023_163,TUC,Tucson Torpedoes FC,REN,Reno Rapids FC,2,4,1.33,1.62,8,5,7,0,0,0,0,0,0.46,L,W
+game_2023_391,TOL,Toledo Titans FC,REN,Reno Rapids FC,3,1,1.49,1.33,19,17,6,9,0,0,0,1,0.48,W,L
+game_2023_278,MAN,Manchester Meteors FC,REN,Reno Rapids FC,0,1,0.79,1.02,15,14,8,5,0,0,1,0,0.5,L,W
+game_2023_25,BOI,Boise Thunderhawks FC,REN,Reno Rapids FC,1,1,2.21,0.78,24,9,10,0,0,0,0,0,0.48,D,D
+game_2023_330,LRO,Little Rock Legends FC,REN,Reno Rapids FC,2,2,2.41,0.81,13,14,8,6,0,0,0,0,0.49,D,D
+game_2023_135,SAS,Saskatoon Spartans FC,REN,Reno Rapids FC,4,1,1.05,1.21,18,13,5,9,0,0,0,0,0.57,W,L
+game_2023_438,EUG,Eugene Enforcers FC,REN,Reno Rapids FC,2,0,1.28,0.68,13,7,3,4,0,0,0,0,0.35,W,L
+game_2023_235,MOB,Mobile Mavericks FC,REN,Reno Rapids FC,1,3,1.08,2.27,12,15,4,4,0,0,0,0,0.62,L,W
+game_2023_268,OAK,Oakland Olympians FC,REN,Reno Rapids FC,1,0,1.32,0.91,16,13,4,9,0,0,1,0,0.46,W,L
+game_2023_54,FOR,Fort Collins Foxes FC,REN,Reno Rapids FC,0,4,1.92,1.21,10,18,6,4,0,0,0,0,0.61,L,W
+game_2023_301,FAR,Fargo Falcons FC,REN,Reno Rapids FC,2,1,1.92,0.63,13,7,6,1,0,0,0,0,0.48,W,L
+game_2023_353,SFS,Sioux Falls Sabers FC,REN,Reno Rapids FC,1,4,1.36,1.31,20,5,4,4,0,0,0,0,0.52,L,W
+game_2023_175,ANC,Anchorage Avalanche FC,REN,Reno Rapids FC,1,0,1.87,0.86,21,16,9,2,0,0,0,0,0.41,W,L
+game_2023_70,BAK,Bakersfield Bandits FC,REN,Reno Rapids FC,0,2,2.06,1.14,16,16,5,6,0,0,0,0,0.44,L,W
+game_2023_106,WIC,Wichita Warriors FC,REN,Reno Rapids FC,1,1,2.04,1.07,17,13,2,1,0,0,0,0,0.56,D,D
+game_2023_458,TAC,Tacoma Thunderbolts FC,REN,Reno Rapids FC,0,3,1.74,1.27,21,18,8,3,0,0,0,0,0.51,L,W
+game_2023_157,EUG,Eugene Enforcers FC,SAS,Saskatoon Spartans FC,0,3,0.59,1.6,15,15,8,4,0,0,0,0,0.43,L,W
+game_2023_88,SPR,Springfield Storm FC,SAS,Saskatoon Spartans FC,4,1,2.67,0.96,24,16,5,3,0,0,0,0,0.53,W,L
+game_2023_290,BOI,Boise Thunderhawks FC,SAS,Saskatoon Spartans FC,3,1,2.57,1.35,24,14,12,6,0,0,0,0,0.69,W,L
+game_2023_449,ANC,Anchorage Avalanche FC,SAS,Saskatoon Spartans FC,2,7,1.42,1.66,19,13,0,4,0,0,0,1,0.41,L,W
+game_2023_363,OAK,Oakland Olympians FC,SAS,Saskatoon Spartans FC,2,7,2.36,0.72,18,9,6,3,0,0,0,0,0.44,L,W
+game_2023_181,TOL,Toledo Titans FC,SAS,Saskatoon Spartans FC,2,2,3.42,1.75,19,12,6,5,0,0,0,0,0.49,D,D
+game_2023_321,ALB,Albuquerque Scorpions FC,SAS,Saskatoon Spartans FC,2,0,0.78,0.9,9,14,3,4,0,0,2,0,0.46,W,L
+game_2023_143,SFS,Sioux Falls Sabers FC,SAS,Saskatoon Spartans FC,1,1,1.06,1.23,5,11,3,4,0,0,0,0,0.6,D,D
+game_2023_314,REN,Reno Rapids FC,SAS,Saskatoon Spartans FC,2,0,1.78,0.72,19,14,6,6,0,0,0,1,0.54,W,L
+game_2023_254,TUC,Tucson Torpedoes FC,SAS,Saskatoon Spartans FC,1,1,1.46,1.89,12,16,1,7,0,0,0,0,0.59,D,D
+game_2023_16,LAR,Laredo Lancers FC,SAS,Saskatoon Spartans FC,2,1,1.88,0.32,18,3,3,2,0,0,0,0,0.48,W,L
+game_2023_116,TAC,Tacoma Thunderbolts FC,SAS,Saskatoon Spartans FC,1,2,0.41,0.62,11,8,2,2,0,1,1,2,0.56,L,W
+game_2023_395,BAK,Bakersfield Bandits FC,SAS,Saskatoon Spartans FC,1,2,1.56,1.56,14,19,7,4,0,0,0,0,0.42,L,W
+game_2023_432,WIC,Wichita Warriors FC,SAS,Saskatoon Spartans FC,2,1,1.13,1.29,21,15,4,2,0,0,2,0,0.54,W,L
+game_2023_62,MAN,Manchester Meteors FC,SAS,Saskatoon Spartans FC,1,1,1.63,0.54,22,3,3,7,0,0,0,0,0.53,D,D
+game_2023_226,FAR,Fargo Falcons FC,SAS,Saskatoon Spartans FC,1,2,1.13,0.74,12,13,11,3,0,0,0,0,0.48,L,W
+game_2023_218,FOR,Fort Collins Foxes FC,SAS,Saskatoon Spartans FC,4,0,0.44,1.23,6,18,3,1,0,0,0,0,0.62,W,L
+game_2023_322,TAC,Tacoma Thunderbolts FC,SFS,Sioux Falls Sabers FC,0,2,1.35,0.91,14,9,6,4,0,0,0,0,0.37,L,W
+game_2023_385,MOB,Mobile Mavericks FC,SFS,Sioux Falls Sabers FC,0,3,1.12,2.54,20,18,0,5,0,0,1,0,0.42,L,W
+game_2023_118,BOI,Boise Thunderhawks FC,SFS,Sioux Falls Sabers FC,1,1,2.02,0.54,16,2,5,2,0,0,0,0,0.37,D,D
+game_2023_72,ALB,Albuquerque Scorpions FC,SFS,Sioux Falls Sabers FC,1,3,2.21,2.32,23,12,6,1,0,0,0,2,0.49,L,W
+game_2023_19,DES,Des Moines Dynamo FC,SFS,Sioux Falls Sabers FC,2,2,1.42,0.87,20,10,6,8,0,0,0,1,0.49,D,D
+game_2023_443,WIC,Wichita Warriors FC,SFS,Sioux Falls Sabers FC,2,4,2.07,2.36,5,18,2,1,0,0,0,0,0.45,L,W
+game_2023_137,FOR,Fort Collins Foxes FC,SFS,Sioux Falls Sabers FC,1,3,1.11,1.16,9,12,6,1,0,0,0,0,0.55,L,W
+game_2023_465,TUC,Tucson Torpedoes FC,SFS,Sioux Falls Sabers FC,1,3,0.83,0.92,3,15,3,3,0,0,0,0,0.34,L,W
+game_2023_379,LAR,Laredo Lancers FC,SFS,Sioux Falls Sabers FC,3,2,1.43,0.51,27,6,8,2,1,0,1,0,0.62,W,L
+game_2023_31,REN,Reno Rapids FC,SFS,Sioux Falls Sabers FC,0,1,1.5,0.83,18,10,4,7,0,0,0,0,0.37,L,W
+game_2023_89,MAN,Manchester Meteors FC,SFS,Sioux Falls Sabers FC,7,2,3.22,0.33,28,12,12,7,0,0,0,0,0.53,W,L
+game_2023_409,OAK,Oakland Olympians FC,SFS,Sioux Falls Sabers FC,3,0,0.44,0.34,6,6,9,1,0,0,0,0,0.32,W,L
+game_2023_426,EUG,Eugene Enforcers FC,SFS,Sioux Falls Sabers FC,2,1,1.12,0.89,17,10,8,1,0,0,0,0,0.32,W,L
+game_2023_158,BAK,Bakersfield Bandits FC,SFS,Sioux Falls Sabers FC,0,0,1.02,1.06,9,14,7,5,0,0,0,0,0.43,D,D
+game_2023_249,FAR,Fargo Falcons FC,SFS,Sioux Falls Sabers FC,2,3,1.69,1.64,5,14,9,2,0,0,0,0,0.45,L,W
+game_2023_276,ANC,Anchorage Avalanche FC,SFS,Sioux Falls Sabers FC,2,0,1.53,0.48,21,6,5,5,0,0,0,0,0.48,W,L
+game_2023_306,SAS,Saskatoon Spartans FC,SFS,Sioux Falls Sabers FC,1,1,1.55,0.64,12,9,4,3,0,0,0,1,0.38,D,D
+game_2023_182,SPR,Springfield Storm FC,SJU,San Juan Strikers FC,3,1,2.35,1.17,15,7,7,6,0,0,0,0,0.52,W,L
+game_2023_422,TAC,Tacoma Thunderbolts FC,SJU,San Juan Strikers FC,2,0,2.1,0.36,13,15,6,7,0,0,0,0,0.59,W,L
+game_2023_245,TOL,Toledo Titans FC,SJU,San Juan Strikers FC,4,1,2.59,0.73,18,13,3,3,0,0,1,0,0.72,W,L
+game_2023_275,BAK,Bakersfield Bandits FC,SJU,San Juan Strikers FC,3,1,2.38,1.49,20,17,8,3,0,0,0,0,0.47,W,L
+game_2023_248,DOV,Dover Dragons FC,SJU,San Juan Strikers FC,3,0,1.74,1.06,18,14,6,8,0,0,0,0,0.54,W,L
+game_2023_17,LEX,Lexington Lynx FC,SJU,San Juan Strikers FC,0,0,0.49,0.28,12,9,3,5,0,0,0,0,0.49,D,D
+game_2023_117,CHM,Charleston Mariners FC,SJU,San Juan Strikers FC,3,1,1.52,0.32,19,6,2,6,0,0,2,0,0.43,W,L
+game_2023_337,LAR,Laredo Lancers FC,SJU,San Juan Strikers FC,1,0,1.51,0.49,4,19,8,4,0,0,0,0,0.43,W,L
+game_2023_201,MAN,Manchester Meteors FC,SJU,San Juan Strikers FC,3,7,1.26,2.03,12,9,7,6,0,0,0,0,0.53,L,W
+game_2023_315,DES,Des Moines Dynamo FC,SJU,San Juan Strikers FC,1,1,1.36,0.35,7,4,16,4,0,0,0,0,0.55,D,D
+game_2023_347,FAR,Fargo Falcons FC,SJU,San Juan Strikers FC,4,1,2.09,0.32,15,10,7,4,0,0,0,1,0.62,W,L
+game_2023_378,LRO,Little Rock Legends FC,SJU,San Juan Strikers FC,3,0,3.27,0.47,20,15,6,3,0,0,0,0,0.59,W,L
+game_2023_144,PRO,Providence Pioneers FC,SJU,San Juan Strikers FC,2,0,0.91,0.23,4,6,9,3,1,0,1,0,0.57,W,L
+game_2023_450,JAC,Jackson Jaguars FC,SJU,San Juan Strikers FC,0,0,2.13,0.34,15,6,3,3,0,0,0,0,0.65,D,D
+game_2023_43,MOB,Mobile Mavericks FC,SJU,San Juan Strikers FC,0,1,0.57,1.49,5,9,9,8,0,0,1,0,0.5,L,W
+game_2023_408,BOI,Boise Thunderhawks FC,SJU,San Juan Strikers FC,0,0,1.39,0.06,15,13,2,2,0,0,1,0,0.53,D,D
+game_2023_384,AUG,Augusta Arrows FC,SJU,San Juan Strikers FC,3,0,2.91,0.33,17,5,3,2,0,0,1,1,0.61,W,L
+game_2023_329,SJU,San Juan Strikers FC,SPR,Springfield Storm FC,2,3,0.63,2.02,6,18,6,5,1,0,2,0,0.53,L,W
+game_2023_121,MAN,Manchester Meteors FC,SPR,Springfield Storm FC,0,0,1.44,1.03,18,11,2,7,0,0,0,0,0.44,D,D
+game_2023_173,PRO,Providence Pioneers FC,SPR,Springfield Storm FC,1,2,1.47,0.54,14,5,9,1,0,0,0,0,0.47,L,W
+game_2023_110,TOL,Toledo Titans FC,SPR,Springfield Storm FC,3,1,1.35,0.7,13,15,5,3,1,0,1,0,0.64,W,L
+game_2023_300,FOR,Fort Collins Foxes FC,SPR,Springfield Storm FC,1,0,2.15,0.14,21,13,7,3,0,0,1,0,0.77,W,L
+game_2023_193,DES,Des Moines Dynamo FC,SPR,Springfield Storm FC,1,4,1.12,0.73,8,11,4,3,0,0,0,0,0.61,L,W
+game_2023_224,FAR,Fargo Falcons FC,SPR,Springfield Storm FC,4,1,1.5,0.14,6,16,11,6,0,0,0,0,0.53,W,L
+game_2023_390,JAC,Jackson Jaguars FC,SPR,Springfield Storm FC,5,2,2.45,0.15,12,16,1,3,0,0,0,0,0.66,W,L
+game_2023_437,AUG,Augusta Arrows FC,SPR,Springfield Storm FC,2,1,2.01,0.44,21,6,3,2,0,0,0,0,0.56,W,L
+game_2023_476,WIC,Wichita Warriors FC,SPR,Springfield Storm FC,1,1,1.73,0.57,13,3,1,7,0,0,0,0,0.56,D,D
+game_2023_352,LRO,Little Rock Legends FC,SPR,Springfield Storm FC,1,2,2.53,1.39,11,7,3,3,0,0,0,0,0.72,L,W
+game_2023_453,CHM,Charleston Mariners FC,SPR,Springfield Storm FC,2,2,1.73,1.06,18,15,5,5,0,0,1,0,0.68,D,D
+game_2023_68,LAR,Laredo Lancers FC,SPR,Springfield Storm FC,0,2,1.17,1.51,16,13,11,2,0,0,1,0,0.66,L,W
+game_2023_242,TAC,Tacoma Thunderbolts FC,SPR,Springfield Storm FC,7,0,3.01,1.17,20,15,5,2,0,0,0,0,0.63,W,L
+game_2023_24,MOB,Mobile Mavericks FC,SPR,Springfield Storm FC,1,0,1.42,0.7,15,6,6,4,0,0,1,1,0.67,W,L
+game_2023_259,LEX,Lexington Lynx FC,SPR,Springfield Storm FC,0,0,1.4,0.53,14,7,6,4,0,0,0,0,0.45,D,D
+game_2023_149,DOV,Dover Dragons FC,SPR,Springfield Storm FC,4,4,2.74,1.95,20,14,6,5,0,0,0,0,0.6,D,D
+game_2023_403,SFS,Sioux Falls Sabers FC,TAC,Tacoma Thunderbolts FC,2,2,1.86,0.91,15,14,1,5,1,0,2,0,0.6,D,D
+game_2023_97,FAR,Fargo Falcons FC,TAC,Tacoma Thunderbolts FC,3,0,3.07,0.24,26,17,10,5,0,0,0,0,0.52,W,L
+game_2023_13,LRO,Little Rock Legends FC,TAC,Tacoma Thunderbolts FC,1,1,2.17,0.23,13,5,8,5,0,0,0,1,0.44,D,D
+game_2023_151,ALB,Albuquerque Scorpions FC,TAC,Tacoma Thunderbolts FC,1,0,1.66,0.56,17,10,5,2,0,0,0,1,0.41,W,L
+game_2023_270,BAK,Bakersfield Bandits FC,TAC,Tacoma Thunderbolts FC,3,0,0.31,0.41,12,4,7,2,0,0,0,0,0.53,W,L
+game_2023_285,BOI,Boise Thunderhawks FC,TAC,Tacoma Thunderbolts FC,2,1,1.6,0.45,6,8,5,6,0,0,1,0,0.56,W,L
+game_2023_176,WIC,Wichita Warriors FC,TAC,Tacoma Thunderbolts FC,1,0,1.46,1.23,11,11,6,4,0,0,0,0,0.63,W,L
+game_2023_472,SAS,Saskatoon Spartans FC,TAC,Tacoma Thunderbolts FC,1,2,0.71,0.51,19,12,7,7,0,0,0,0,0.42,L,W
+game_2023_261,JAC,Jackson Jaguars FC,TAC,Tacoma Thunderbolts FC,2,0,2.06,0.7,19,3,8,2,0,0,0,0,0.64,W,L
+game_2023_136,AUG,Augusta Arrows FC,TAC,Tacoma Thunderbolts FC,2,1,2.51,1.46,19,12,6,4,0,0,0,0,0.53,W,L
+game_2023_71,EUG,Eugene Enforcers FC,TAC,Tacoma Thunderbolts FC,0,3,1.52,2.57,15,20,5,8,0,0,0,0,0.48,L,W
+game_2023_37,ANC,Anchorage Avalanche FC,TAC,Tacoma Thunderbolts FC,3,1,3.05,0.81,17,5,6,1,0,0,1,1,0.44,W,L
+game_2023_221,REN,Reno Rapids FC,TAC,Tacoma Thunderbolts FC,1,1,1.65,0.4,20,13,7,4,0,0,1,0,0.49,D,D
+game_2023_417,TUC,Tucson Torpedoes FC,TAC,Tacoma Thunderbolts FC,3,7,2.41,0.7,17,12,6,3,0,0,0,0,0.53,L,W
+game_2023_343,FOR,Fort Collins Foxes FC,TAC,Tacoma Thunderbolts FC,3,1,2.89,0.9,21,16,5,8,0,0,0,0,0.62,W,L
+game_2023_211,OAK,Oakland Olympians FC,TAC,Tacoma Thunderbolts FC,1,0,2.08,0.37,11,4,8,5,0,0,1,0,0.61,W,L
+game_2023_52,MAN,Manchester Meteors FC,TAC,Tacoma Thunderbolts FC,4,1,1.84,0.09,12,6,7,4,0,0,0,0,0.54,W,L
+game_2023_415,DOV,Dover Dragons FC,TOL,Toledo Titans FC,2,1,0.74,1.77,12,17,4,6,0,0,0,0,0.48,W,L
+game_2023_171,FOR,Fort Collins Foxes FC,TOL,Toledo Titans FC,1,3,2.07,0.99,16,16,3,5,0,0,0,0,0.71,L,W
+game_2023_148,MOB,Mobile Mavericks FC,TOL,Toledo Titans FC,1,2,2.18,1.17,20,11,9,3,0,0,0,0,0.48,L,W
+game_2023_132,JAC,Jackson Jaguars FC,TOL,Toledo Titans FC,3,1,0.53,0.63,6,9,4,2,0,0,1,0,0.59,W,L
+game_2023_312,SJU,San Juan Strikers FC,TOL,Toledo Titans FC,2,3,1.41,1.43,10,17,6,6,0,0,0,0,0.56,L,W
+game_2023_460,PRO,Providence Pioneers FC,TOL,Toledo Titans FC,3,0,3.13,0.61,17,5,1,3,0,0,0,0,0.4,W,L
+game_2023_365,DES,Des Moines Dynamo FC,TOL,Toledo Titans FC,1,2,1.22,1.17,17,5,3,5,0,0,0,0,0.5,L,W
+game_2023_48,SFS,Sioux Falls Sabers FC,TOL,Toledo Titans FC,2,1,1.63,1.05,20,10,6,6,0,0,0,0,0.62,W,L
+game_2023_22,MAN,Manchester Meteors FC,TOL,Toledo Titans FC,3,1,0.67,1.53,19,18,9,9,0,0,0,0,0.53,W,L
+game_2023_340,SPR,Springfield Storm FC,TOL,Toledo Titans FC,1,2,1.46,0.98,16,12,9,2,0,0,1,0,0.48,L,W
+game_2023_284,LRO,Little Rock Legends FC,TOL,Toledo Titans FC,3,0,1.93,0.54,15,9,3,4,0,0,0,0,0.62,W,L
+game_2023_58,ALB,Albuquerque Scorpions FC,TOL,Toledo Titans FC,1,2,1.09,1.91,7,15,10,9,0,0,0,0,0.52,L,W
+game_2023_265,ANC,Anchorage Avalanche FC,TOL,Toledo Titans FC,1,0,2.4,0.71,18,9,3,6,0,0,0,0,0.51,W,L
+game_2023_197,LAR,Laredo Lancers FC,TOL,Toledo Titans FC,0,0,1.36,0.86,11,6,3,7,0,0,0,0,0.53,D,D
+game_2023_92,CHM,Charleston Mariners FC,TOL,Toledo Titans FC,2,1,1.88,0.81,15,8,3,1,0,0,0,1,0.6,W,L
+game_2023_212,LEX,Lexington Lynx FC,TOL,Toledo Titans FC,0,3,1.7,0.18,20,6,8,2,0,0,0,0,0.46,L,W
+game_2023_457,AUG,Augusta Arrows FC,TOL,Toledo Titans FC,1,0,2.11,0.21,20,9,9,5,0,0,0,1,0.57,W,L
+game_2023_399,REN,Reno Rapids FC,TUC,Tucson Torpedoes FC,2,0,1.6,0.46,8,5,7,2,0,0,0,0,0.63,W,L
+game_2023_183,BOI,Boise Thunderhawks FC,TUC,Tucson Torpedoes FC,3,1,3.72,0.2,18,13,6,5,0,0,0,0,0.53,W,L
+game_2023_18,TAC,Tacoma Thunderbolts FC,TUC,Tucson Torpedoes FC,1,3,0.9,2.11,18,18,7,10,0,0,0,0,0.58,L,W
+game_2023_440,FAR,Fargo Falcons FC,TUC,Tucson Torpedoes FC,1,0,0.84,0.34,2,1,6,8,0,0,1,0,0.49,W,L
+game_2023_169,SFS,Sioux Falls Sabers FC,TUC,Tucson Torpedoes FC,4,1,2.38,0.8,19,18,12,7,0,0,0,0,0.73,W,L
+game_2023_101,SAS,Saskatoon Spartans FC,TUC,Tucson Torpedoes FC,1,0,1.44,0.65,15,14,7,4,0,0,1,0,0.5,W,L
+game_2023_305,DOV,Dover Dragons FC,TUC,Tucson Torpedoes FC,1,3,1.84,1.04,17,11,1,5,0,2,1,2,0.5,L,W
+game_2023_319,EUG,Eugene Enforcers FC,TUC,Tucson Torpedoes FC,2,0,1.34,0.78,13,6,2,4,0,0,0,0,0.45,W,L
+game_2023_455,OAK,Oakland Olympians FC,TUC,Tucson Torpedoes FC,2,0,1.07,0.67,15,10,7,5,0,0,0,0,0.53,W,L
+game_2023_130,SJU,San Juan Strikers FC,TUC,Tucson Torpedoes FC,5,4,3.29,1.15,17,12,6,5,0,0,0,0,0.46,W,L
+game_2023_202,TOL,Toledo Titans FC,TUC,Tucson Torpedoes FC,4,1,2.33,0.11,30,3,8,4,0,0,1,0,0.46,W,L
+game_2023_262,FOR,Fort Collins Foxes FC,TUC,Tucson Torpedoes FC,2,2,2.24,1.05,15,13,6,5,0,0,0,0,0.5,D,D
+game_2023_227,ALB,Albuquerque Scorpions FC,TUC,Tucson Torpedoes FC,3,3,0.51,1.12,5,9,3,0,0,0,0,0,0.4,D,D
+game_2023_281,WIC,Wichita Warriors FC,TUC,Tucson Torpedoes FC,0,0,1.17,0.43,4,10,8,6,0,0,0,0,0.51,D,D
+game_2023_63,PRO,Providence Pioneers FC,TUC,Tucson Torpedoes FC,4,0,1.61,0.65,24,11,2,2,0,0,0,0,0.54,W,L
+game_2023_371,BAK,Bakersfield Bandits FC,TUC,Tucson Torpedoes FC,2,1,1.62,0.32,23,8,4,6,0,0,0,0,0.56,W,L
+game_2023_356,ANC,Anchorage Avalanche FC,TUC,Tucson Torpedoes FC,0,1,1.59,0.83,14,15,4,9,0,0,0,0,0.51,L,W
+game_2023_376,TAC,Tacoma Thunderbolts FC,WIC,Wichita Warriors FC,0,3,1.32,1.63,21,9,7,3,0,0,0,0,0.5,L,W
+game_2023_150,EUG,Eugene Enforcers FC,WIC,Wichita Warriors FC,2,1,1.58,0.45,10,9,7,5,0,0,0,1,0.39,W,L
+game_2023_331,FOR,Fort Collins Foxes FC,WIC,Wichita Warriors FC,3,0,3.04,1.06,20,17,6,9,0,0,0,0,0.44,W,L
+game_2023_342,SAS,Saskatoon Spartans FC,WIC,Wichita Warriors FC,2,0,0.83,0.36,10,8,3,2,1,0,1,0,0.38,W,L
+game_2023_260,MOB,Mobile Mavericks FC,WIC,Wichita Warriors FC,2,0,1.91,0.88,5,5,3,3,0,0,1,0,0.56,W,L
+game_2023_51,BAK,Bakersfield Bandits FC,WIC,Wichita Warriors FC,1,2,1.45,1.15,5,10,7,5,0,0,0,0,0.38,L,W
+game_2023_471,REN,Reno Rapids FC,WIC,Wichita Warriors FC,2,2,1.97,1.56,19,15,7,3,0,0,1,0,0.56,D,D
+game_2023_188,FAR,Fargo Falcons FC,WIC,Wichita Warriors FC,4,1,3.33,0.4,25,6,10,6,0,0,0,0,0.45,W,L
+game_2023_124,AUG,Augusta Arrows FC,WIC,Wichita Warriors FC,3,1,2.61,1.03,17,13,4,10,0,0,0,0,0.54,W,L
+game_2023_194,OAK,Oakland Olympians FC,WIC,Wichita Warriors FC,5,0,2.78,0.47,19,14,2,6,0,0,0,0,0.53,W,L
+game_2023_416,LEX,Lexington Lynx FC,WIC,Wichita Warriors FC,2,2,2.41,1.89,22,17,9,6,0,0,0,0,0.47,D,D
+game_2023_205,BOI,Boise Thunderhawks FC,WIC,Wichita Warriors FC,1,3,2.36,1.2,16,10,6,3,1,0,1,0,0.35,L,W
+game_2023_81,TUC,Tucson Torpedoes FC,WIC,Wichita Warriors FC,2,1,2.72,0.38,16,8,8,2,0,0,0,0,0.33,W,L
+game_2023_36,DOV,Dover Dragons FC,WIC,Wichita Warriors FC,0,2,1.11,1.34,9,13,7,4,0,0,0,0,0.31,L,W
+game_2023_269,SFS,Sioux Falls Sabers FC,WIC,Wichita Warriors FC,1,1,2.84,0.3,26,2,8,6,0,0,0,0,0.54,D,D
+game_2023_298,ALB,Albuquerque Scorpions FC,WIC,Wichita Warriors FC,2,3,2.61,2.09,12,17,7,4,0,0,0,0,0.43,L,W
+game_2023_428,ANC,Anchorage Avalanche FC,WIC,Wichita Warriors FC,1,0,0.94,0.27,15,16,3,2,0,0,0,0,0.44,W,L
